@@ -1,0 +1,128 @@
+[
+    {
+        "group": "A",
+        "teams": [
+            {
+                "name": "Poland",
+                "shortName": "POL"
+            },
+            {
+                "name": "Sweden",
+                "shortName": "SWE"
+            },
+            {
+                "name": "Slovakia",
+                "shortName": "SLO"
+            },
+            {
+                "name": "Spain",
+                "shortName": "SPA"
+            }
+        ]
+    },
+    {
+        "group": "B",
+        "teams": [
+            {
+                "name": "Italy",
+                "shortName": "ITA"
+            },
+            {
+                "name": "Wales",
+                "shortName": "WAL"
+            },
+            {
+                "name": "Switzerland",
+                "shortName": "SWI"
+            },
+            {
+                "name": "Turkey",
+                "shortName": "TUR"
+            }
+        ]
+    },
+    {
+        "group": "C",
+        "teams": [
+            {
+                "name": "Belgium",
+                "shortName": "BEL"
+            },
+            {
+                "name": "Denmark",
+                "shortName": "DEN"
+            },
+            {
+                "name": "Norway",
+                "shortName": "NOR"
+            },
+            {
+                "name": "Finland",
+                "shortName": "FIN"
+            }
+        ]
+    },
+    {
+        "group": "D",
+        "teams": [
+            {
+                "name": "Netherlands",
+                "shortName": "NED"
+            },
+            {
+                "name": "Austria",
+                "shortName": "AUS"
+            },
+            {
+                "name": "Ukraine",
+                "shortName": "UKR"
+            },
+            {
+                "name": "Macedonia",
+                "shortName": "MAC"
+            }
+        ]
+    },
+    {
+        "group": "E",
+        "teams": [
+            {
+                "name": "England",
+                "shortName": "ENG"
+            },
+            {
+                "name": "Croatia",
+                "shortName": "CRO"
+            },
+            {
+                "name": "Czechia",
+                "shortName": "CZE"
+            },
+            {
+                "name": "Scotland",
+                "shortName": "SCO"
+            }
+        ]
+    },
+    {
+        "group": "F",
+        "teams": [
+            {
+                "name": "France",
+                "shortName": "FRA"
+            },
+            {
+                "name": "Germany",
+                "shortName": "GER"
+            },
+            {
+                "name": "Portugal",
+                "shortName": "POR"
+            },
+            {
+                "name": "Hungary",
+                "shortName": "HUN"
+            }
+        ]
+    }
+]
