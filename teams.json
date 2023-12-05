@@ -3,8 +3,8 @@
         "group": "A",
         "teams": [
             {
-                "name": "Poland",
-                "shortName": "POL",
+                "name": "Germany",
+                "shortName": "GER",
                 "matchesPlayed": 0,
                 "matchesWon": 0,
                 "matchesDrawn": 0,
@@ -12,8 +12,8 @@
                 "points": 0
             },
             {
-                "name": "Sweden",
-                "shortName": "SWE",
+                "name": "Switzerland",
+                "shortName": "SWI",
                 "matchesPlayed": 0,
                 "matchesWon": 0,
                 "matchesDrawn": 0,
@@ -21,8 +21,8 @@
                 "points": 0
             },
             {
-                "name": "Slovakia",
-                "shortName": "SLO",
+                "name": "Scotland",
+                "shortName": "SCO",
                 "matchesPlayed": 0,
                 "matchesWon": 0,
                 "matchesDrawn": 0,
@@ -30,8 +30,8 @@
                 "points": 0
             },
             {
-                "name": "Spain",
-                "shortName": "SPA",
+                "name": "Hungary",
+                "shortName": "HUN",
                 "matchesPlayed": 0,
                 "matchesWon": 0,
                 "matchesDrawn": 0,
@@ -53,122 +53,8 @@
                 "points": 0
             },
             {
-                "name": "Wales",
-                "shortName": "WAL",
-                "matchesPlayed": 0,
-                "matchesWon": 0,
-                "matchesDrawn": 0,
-                "matchesLost": 0,
-                "points": 0
-            },
-            {
-                "name": "Switzerland",
-                "shortName": "SWI",
-                "matchesPlayed": 0,
-                "matchesWon": 0,
-                "matchesDrawn": 0,
-                "matchesLost": 0,
-                "points": 0
-            },
-            {
-                "name": "Turkey",
-                "shortName": "TUR",
-                "matchesPlayed": 0,
-                "matchesWon": 0,
-                "matchesDrawn": 0,
-                "matchesLost": 0,
-                "points": 0
-            }
-        ]
-    },
-    {
-        "group": "C",
-        "teams": [
-            {
-                "name": "Belgium",
-                "shortName": "BEL",
-                "matchesPlayed": 0,
-                "matchesWon": 0,
-                "matchesDrawn": 0,
-                "matchesLost": 0,
-                "points": 0
-            },
-            {
-                "name": "Denmark",
-                "shortName": "DEN",
-                "matchesPlayed": 0,
-                "matchesWon": 0,
-                "matchesDrawn": 0,
-                "matchesLost": 0,
-                "points": 0
-            },
-            {
-                "name": "Norway",
-                "shortName": "NOR",
-                "matchesPlayed": 0,
-                "matchesWon": 0,
-                "matchesDrawn": 0,
-                "matchesLost": 0,
-                "points": 0
-            },
-            {
-                "name": "Finland",
-                "shortName": "FIN",
-                "matchesPlayed": 0,
-                "matchesWon": 0,
-                "matchesDrawn": 0,
-                "matchesLost": 0,
-                "points": 0
-            }
-        ]
-    },
-    {
-        "group": "D",
-        "teams": [
-            {
-                "name": "Netherlands",
-                "shortName": "NED",
-                "matchesPlayed": 0,
-                "matchesWon": 0,
-                "matchesDrawn": 0,
-                "matchesLost": 0,
-                "points": 0
-            },
-            {
-                "name": "Austria",
-                "shortName": "AUS",
-                "matchesPlayed": 0,
-                "matchesWon": 0,
-                "matchesDrawn": 0,
-                "matchesLost": 0,
-                "points": 0
-            },
-            {
-                "name": "Ukraine",
-                "shortName": "UKR",
-                "matchesPlayed": 0,
-                "matchesWon": 0,
-                "matchesDrawn": 0,
-                "matchesLost": 0,
-                "points": 0
-            },
-            {
-                "name": "Macedonia",
-                "shortName": "MAC",
-                "matchesPlayed": 0,
-                "matchesWon": 0,
-                "matchesDrawn": 0,
-                "matchesLost": 0,
-                "points": 0
-            }
-        ]
-    },
-    {
-        "group": "E",
-        "teams": [
-            {
-                "name": "England",
-                "shortName": "ENG",
+                "name": "Spain",
+                "shortName": "SPA",
                 "matchesPlayed": 0,
                 "matchesWon": 0,
                 "matchesDrawn": 0,
@@ -185,8 +71,22 @@
                 "points": 0
             },
             {
-                "name": "Czechia",
-                "shortName": "CZE",
+                "name": "Albania",
+                "shortName": "ALB",
+                "matchesPlayed": 0,
+                "matchesWon": 0,
+                "matchesDrawn": 0,
+                "matchesLost": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "group": "C",
+        "teams": [
+            {
+                "name": "England",
+                "shortName": "ENG",
                 "matchesPlayed": 0,
                 "matchesWon": 0,
                 "matchesDrawn": 0,
@@ -194,8 +94,108 @@
                 "points": 0
             },
             {
-                "name": "Scotland",
-                "shortName": "SCO",
+                "name": "Denmark",
+                "shortName": "DEN",
+                "matchesPlayed": 0,
+                "matchesWon": 0,
+                "matchesDrawn": 0,
+                "matchesLost": 0,
+                "points": 0
+            },
+            {
+                "name": "Slovenia",
+                "shortName": "SVN",
+                "matchesPlayed": 0,
+                "matchesWon": 0,
+                "matchesDrawn": 0,
+                "matchesLost": 0,
+                "points": 0
+            },
+            {
+                "name": "Serbia",
+                "shortName": "SRB",
+                "matchesPlayed": 0,
+                "matchesWon": 0,
+                "matchesDrawn": 0,
+                "matchesLost": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "group": "D",
+        "teams": [
+            {
+                "name": "Poland",
+                "shortName": "POL",
+                "matchesPlayed": 0,
+                "matchesWon": 0,
+                "matchesDrawn": 0,
+                "matchesLost": 0,
+                "points": 0
+            },
+            {
+                "name": "Austria",
+                "shortName": "AUS",
+                "matchesPlayed": 0,
+                "matchesWon": 0,
+                "matchesDrawn": 0,
+                "matchesLost": 0,
+                "points": 0
+            },
+            {
+                "name": "France",
+                "shortName": "FRA",
+                "matchesPlayed": 0,
+                "matchesWon": 0,
+                "matchesDrawn": 0,
+                "matchesLost": 0,
+                "points": 0
+            },
+            {
+                "name": "Netherlands",
+                "shortName": "NED",
+                "matchesPlayed": 0,
+                "matchesWon": 0,
+                "matchesDrawn": 0,
+                "matchesLost": 0,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "group": "E",
+        "teams": [
+            {
+                "name": "Belgium",
+                "shortName": "BEN",
+                "matchesPlayed": 0,
+                "matchesWon": 0,
+                "matchesDrawn": 0,
+                "matchesLost": 0,
+                "points": 0
+            },
+            {
+                "name": "Slovakia",
+                "shortName": "SLO",
+                "matchesPlayed": 0,
+                "matchesWon": 0,
+                "matchesDrawn": 0,
+                "matchesLost": 0,
+                "points": 0
+            },
+            {
+                "name": "Romania",
+                "shortName": "ROM",
+                "matchesPlayed": 0,
+                "matchesWon": 0,
+                "matchesDrawn": 0,
+                "matchesLost": 0,
+                "points": 0
+            },
+            {
+                "name": "Ukraine",
+                "shortName": "UKR",
                 "matchesPlayed": 0,
                 "matchesWon": 0,
                 "matchesDrawn": 0,
@@ -208,8 +208,8 @@
         "group": "F",
         "teams": [
             {
-                "name": "France",
-                "shortName": "FRA",
+                "name": "Turkey",
+                "shortName": "TUR",
                 "matchesPlayed": 0,
                 "matchesWon": 0,
                 "matchesDrawn": 0,
@@ -217,8 +217,8 @@
                 "points": 0
             },
             {
-                "name": "Germany",
-                "shortName": "GER",
+                "name": "Czechia",
+                "shortName": "CZE",
                 "matchesPlayed": 0,
                 "matchesWon": 0,
                 "matchesDrawn": 0,
@@ -235,8 +235,8 @@
                 "points": 0
             },
             {
-                "name": "Hungary",
-                "shortName": "HUN",
+                "name": "Greece",
+                "shortName": "GRE",
                 "matchesPlayed": 0,
                 "matchesWon": 0,
                 "matchesDrawn": 0,
